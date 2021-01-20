@@ -50,5 +50,7 @@ namespace Class
         public string Egitmen { get; set; }
 
         public int İzlenmeOrani { get; set; }
+
+
     }
 }
